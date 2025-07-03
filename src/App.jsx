@@ -11,7 +11,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/gbc-salon">
       <div className="min-h-screen bg-gray-50">
         <Header />
         <main>
